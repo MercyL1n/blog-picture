@@ -1,0 +1,2 @@
+# blog-picture
+static
